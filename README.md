@@ -55,3 +55,8 @@ Botz uses the EfficientDet-D0 model for detecting objects.
     training, follow the subsequent instructions to save the model in .pb format. This is the
     format that the sub uses. 
     Make your own copy of the Colab if you wish to make changes.
+
+## TODO
+
+- Add pictures
+- Add an instructions section for training a model on a personal PC
