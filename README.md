@@ -37,7 +37,7 @@ Botz uses the EfficientDet-D0 model for detecting objects.
     This is the size of the image that the EfficientDet-D0 model uses.
     Use custom-dataset-tools' `resize.py` for this purpose.
     Example usage:
-    
+
         $ cd custom-dataset-tools/dataset
         $ python3 resize.py \
             --image_dir /home/joe/img_dset \
@@ -50,7 +50,7 @@ Botz uses the EfficientDet-D0 model for detecting objects.
 
 6 - Upload the zip file to Google Drive.
 
-7 - Train the ML models online using [this Colab link](https://colab.research.google.com/notebook#fileId=1Qn06AoMEO0thnaN06ciW7N21iSV0prxE&offline=true&sandboxMode=true)
+7 - Train the ML models online using [this Colab link](https://colab.research.google.com/notebook#fileId=1Qn06AoMEO0thnaN06ciW7N21iSV0prxE&offline=true&sandboxMode=true).
     Follow the instructions in the comments of the Colab. Make sure that after you have finished 
     training, follow the subsequent instructions to save the model in .pb format. This is the
     format that the sub uses. 
