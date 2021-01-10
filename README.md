@@ -5,6 +5,7 @@ Botz uses the EfficientDet-D0 model for detecting objects.
 
 ## Requirements
 
+- Ubuntu (Recommended, optional)
 - Python 3
 - [LabelImg](https://github.com/tzutalin/labelImg.git)
 - [Custom-Dataset-Tools](https://github.com/CraigWang1/custom-dataset-tools.git)
