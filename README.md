@@ -25,7 +25,7 @@ Botz uses the EfficientDet-D0 model for detecting objects.
             --ext png \
             --start 0
 
-3 - Label images with labelImg tools. 
+3 - Label images with labelImg. 
     Use custom-dataset-tools' `labelimg_help.py` to speed up the process.
     Example usage:
 
