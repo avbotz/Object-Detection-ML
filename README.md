@@ -15,8 +15,7 @@ Botz uses the EfficientDet-D0 model for detecting objects.
     If the images are located within multiple sub-folders within a single main folder,
     use custom-dataset-tools/dataset/extract_sub_dirs.py (example usage @ custom-dataset-tools/dataset/).
 
-2 - Use custom-dataset-tools' `renumber_dir.py` to renumber the images
-    to renumber the images in sequential order.
+2 - Use custom-dataset-tools' `renumber_dir.py` to renumber the images in sequential order.
     Example usage:
 
         $ cd custom-dataset-tools/dataset
