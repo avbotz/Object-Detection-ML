@@ -58,8 +58,8 @@ Botz uses the EfficientDet-D0 model for detecting objects.
 
 ## Available Resources
 
-[Datasets](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing) 
-[Models](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing)
+- [Datasets](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing) 
+- [Models](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing)
 
 ## TODO
 
