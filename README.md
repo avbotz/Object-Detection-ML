@@ -56,6 +56,11 @@ Botz uses the EfficientDet-D0 model for detecting objects.
     format that the sub uses. 
     Make your own copy of the Colab if you wish to make changes.
 
+## Available Resources
+
+[Datasets](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing) 
+[Models](https://drive.google.com/drive/folders/1ZIqbma0tpQ9Ad3B9pj3yjTGsetdcMk_1?usp=sharing)
+
 ## TODO
 
 - Add pictures
