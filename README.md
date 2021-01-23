@@ -63,5 +63,6 @@ Botz uses the EfficientDet-D0 model for detecting objects.
 
 ## TODO
 
+- Investigate if Yolo v5 is a better option (faster? can run on lighter gpus to make building Nemo easier?)
 - Add pictures
 - Add an instructions section for training a model on a personal PC
